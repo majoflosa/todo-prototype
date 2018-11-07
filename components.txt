@@ -1,0 +1,7 @@
+app
+  - header
+  - body
+    - form (task creator)
+    - list
+      - tasks
+    - details
